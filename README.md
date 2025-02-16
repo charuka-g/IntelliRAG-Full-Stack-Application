@@ -3,6 +3,8 @@
 ## Overview
 **IntelliRAG** is a full-stack Retrieval-Augmented Generation (RAG) application designed to provide intelligent answers based on contextual information retrieved from indexed web sources. The system integrates OpenAI's GPT model, Qdrant for vector search, and a FastAPI backend, coupled with a React-based frontend.
 
+<img width="618" alt="Screenshot 2025-02-17 at 00 31 30" src="https://github.com/user-attachments/assets/df563d3c-35e3-41cd-b41c-c6e9115e5472" />
+
 ## Features
 - **Web-based Question Answering**: Users can input questions, and the system retrieves relevant documents before generating a response.
 - **Automated Website Indexing**: The application allows users to index web pages to enhance retrieval quality.
